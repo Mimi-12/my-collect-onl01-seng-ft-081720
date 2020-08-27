@@ -5,5 +5,5 @@ new_collection = []
       new_collection <<yield(collection[i])
     i += 1
   end
-  collection
+  new_collection
 end
