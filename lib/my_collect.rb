@@ -8,5 +8,3 @@ def my_collect(collection)
   end
   collection
 end
-
-    my_collect  ["Tim", "Tom", "Sophie", "Antoin"]
